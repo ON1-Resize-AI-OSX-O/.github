@@ -65,7 +65,7 @@ Workflow integration extends beyond basic functionality to support comprehensive
 Professional environments benefit from deployment flexibility and management capabilities. Standardized configurations can be distributed across teams while individual customizations remain available, balancing consistency with personal productivity preferences.
 
 <p align="center">
-  <img src="https://ononesoft.cachefly.net/images/home/v2/why-on1--easy-powerful-ai-photo-editing-software.png" alt="ON1 Resize AI screenshot 3"/>
+  <img src="https://on1-wp.s3.amazonaws.com/wp-content/uploads/2025/07/22071202/resize-ai-2026-before-after-main.jpg" alt="ON1 Resize AI screenshot 3"/>
 </p>
 
 ---
